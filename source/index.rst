@@ -3,27 +3,38 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-Welcome to iPress API's documentation!
+iPress API v2 - Documentazione
 ======================================
 
 
+Guide
+*****
+Queste guide ti aiuteranno a imparare come sincronizzare le attività e i contenuti presenti sulla piattaforma iPressLIVE.
 
-
-Guides
-******
+	Web API Base URL: https://api.ipresslive.com
 
 .. toctree::
    :maxdepth: 2
-   
+
+   services/pressreleases
+
+
+
+
+Informazioni generali e licenza
+*******************************
+.. toctree::
+   :maxdepth: 2
+
+   info
    license
    help
-   
 
 
 
-Indices and tables
+
+
+Indice
 ==================
 
 * :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`

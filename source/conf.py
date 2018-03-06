@@ -40,6 +40,9 @@ release = u'2.0'
 # ones.
 extensions = [
     'sphinx.ext.imgmath',
+    'sphinxcontrib.httpdomain', 
+    'sphinxcontrib.httpexample',
+    'sphinx-jsonschema'
 ]
 
 # Add any paths that contain templates here, relative to this directory.
@@ -129,7 +132,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'iPressAPI.tex', u'iPress API Documentation',
+    (master_doc, 'iPressAPI.tex', u'iPress API v2',
      u'Stefano Ubaldi', 'manual'),
 ]
 
@@ -139,7 +142,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'ipressapi', u'iPress API Documentation',
+    (master_doc, 'ipressapi', u'iPress API v2',
      [author], 1)
 ]
 
@@ -150,10 +153,13 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'iPressAPI', u'iPress API Documentation',
-     author, 'iPressAPI', 'One line description of project.',
+    (master_doc, 'iPressAPI', u'iPress API v2',
+     author, 'iPressAPI', 'API per l\'utilizzo delle api per la piattaforma iPress.',
      'Miscellaneous'),
 ]
 
 
 # -- Extension configuration -------------------------------------------------
+
+# -- Curl and rest -----------------------------------------------------------
+httpexample_scheme = 'https'
