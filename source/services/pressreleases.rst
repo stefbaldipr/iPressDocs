@@ -1,10 +1,10 @@
 Press Release
 ========================
-Per "press release" si intendono le news o i comunicati stampa caricati all'interno della piattaforma iPressLIVE
+Per "press release" si intendono le news o i comunicati stampa caricati all'interno della piattaforma iPressLIVE.
 
-Liste
+List
 *****
-Le liste permettono di creare un elenco di "press release" facilmente personalizzabile.
+Le liste o elementi "list" permettono di creare un elenco di "press release" facilmente personalizzabile all'interno della piattaforma iPressLIVE.
 
 ..  http:example:: curl wget httpie python-requests
 

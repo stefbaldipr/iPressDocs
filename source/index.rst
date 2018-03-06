@@ -17,6 +17,7 @@ Queste guide ti aiuteranno a imparare come sincronizzare le attività e i conten
    :maxdepth: 2
 
    services/pressreleases
+   services/coverages
 
 
 
