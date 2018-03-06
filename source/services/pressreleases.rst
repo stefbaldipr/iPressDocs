@@ -2,7 +2,7 @@ Press Release
 ========================
 Per "press release" si intendono le news o i comunicati stampa caricati all'interno della piattaforma iPressLIVE.
 
-List
+List 
 *****
 Le liste o elementi "list" permettono di creare un elenco di "press release" facilmente personalizzabile all'interno della piattaforma iPressLIVE.
 
