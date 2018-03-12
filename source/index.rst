@@ -18,6 +18,7 @@ Queste guide ti aiuteranno a imparare come sincronizzare le attività e i conten
 
    services/pressreleases
    services/coverages
+   services/events
 
 
 
